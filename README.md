@@ -1,5 +1,3 @@
-
-<h1 align="center">Hi, I'm monkukui</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=monkukui&label=Profile%20views&color=0e75b6&style=flat" alt="monkukui" /> </p>
 
 ### Trophy
